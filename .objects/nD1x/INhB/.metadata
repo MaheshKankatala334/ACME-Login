@@ -1,0 +1,12 @@
+﻿{
+  "Id": "INhBmp9Dskq-m0LENXmDsg",
+  "Reference": "Hn3_6GG2qUWuYBMvzIgbHg/INhBmp9Dskq-m0LENXmDsg",
+  "ParentRef": "Hn3_6GG2qUWuYBMvzIgbHg/nD1xCssKDk-_oTH5EomagQ",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-10-18T16:58:04.070845Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-18T16:58:04.070845Z"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "nD1xCssKDk-_oTH5EomagQ",
+  "Reference": "Hn3_6GG2qUWuYBMvzIgbHg/nD1xCssKDk-_oTH5EomagQ",
+  "Name": "ACME Portal",
+  "Description": "Login page of ACME Portal",
+  "Type": "App",
+  "Created": "2022-10-18T16:58:04.0504711Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-18T16:58:04.0504711Z"
+}

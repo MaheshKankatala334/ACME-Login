@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ofdtsZaE0kyopj71l_U_uw",
+  "Reference": "Hn3_6GG2qUWuYBMvzIgbHg/ofdtsZaE0kyopj71l_U_uw",
+  "ParentRef": "Hn3_6GG2qUWuYBMvzIgbHg/HH7V8Vmr6kCO9bSt1Z8KQw",
+  "Name": "LoginChecking",
+  "Description": "Checking the Login Status of ACME Portal",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-10-18T16:59:17.0853272Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-18T16:59:26.464549Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
